@@ -24,6 +24,8 @@
     "sinon": true
   },
 
+  "ignorePatterns": ["lib/*.js"],
+
   "parser": "babel-eslint",
 
   "plugins": [
